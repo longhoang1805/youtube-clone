@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Getting Started
 - Get Youtube api key from: [https://rapidapi.com/ytdlfree/api/youtube-v31](https://rapidapi.com/ytdlfree/api/youtube-v31)
-- Copy the key to .env file: REACT_APP_RAPID_API_KEY
+- Copy .env file from .env.example, parse the key to .env file: REACT_APP_RAPID_API_KEY
 - Run `npm install` to install the dependencies
 - Run `npm start` to start the development server
 
